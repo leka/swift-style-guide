@@ -1,0 +1,11 @@
+.DS_Store
+bin/*/
+*build-*
+*~
+build-tmp/
+moti.sublime-*
+Makefile
+doc/
+debug.txt
+.ycm_extra_conf.pyc
+*.ropeproject*
